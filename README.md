@@ -1,1 +1,2 @@
 # MECMSettingsCapture
+This Script is used to capture common settings in a Microsoft Endpoint Configuration Manager environment. I Originally created this to compare settings between a production and a lab environment. While I had access to the Lab environmenmt, I did not have access to the Production environment. The Production environment Admin ran this on their environment and deloivered the zip created by this scvript that included most settings and Configuration Baselines.
